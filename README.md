@@ -16,8 +16,9 @@ It allows users to input text and convert it into natural-sounding speech using 
 💾 Save spoken text as an audio file
 📜 History of previously spoken texts
 🎨 Improved UI with animations
-## Preview 
+
 ## Screenshots
+<img width="626" height="527" alt="Screenshot 2025-09-05 133450" src="https://github.com/user-attachments/assets/81b25ee8-0c51-4105-8cf2-12a91f966002" />
 
  
 
