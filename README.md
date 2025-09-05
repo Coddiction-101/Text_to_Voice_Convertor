@@ -18,7 +18,7 @@ It allows users to input text and convert it into natural-sounding speech using 
 🎨 Improved UI with animations
 
 ## Screenshots
-<img width="626" height="527" alt="Screenshot 2025-09-05 133450" src="https://github.com/user-attachments/assets/81b25ee8-0c51-4105-8cf2-12a91f966002" />
+<img width="803" height="660" alt="screenshot" src="https://github.com/user-attachments/assets/5fdea0a1-6bdb-470a-81fe-65bf2d1e9fcd" />
 
  
 
