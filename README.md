@@ -11,11 +11,11 @@ It allows users to input text and convert it into natural-sounding speech using 
 
 ## 🌟 Future Updates
 
-🚀 Dark/Light theme support
-🎚️ Pitch & speed controls
-💾 Save spoken text as an audio file
-📜 History of previously spoken texts
-🎨 Improved UI with animations
+- 🚀 Dark/Light theme support
+- 🎚️ Pitch & speed controls
+- 💾 Save spoken text as an audio file
+- 📜 History of previously spoken texts
+= 🎨 Improved UI with animations
 
 ## 🖥️ Demo
 https://text-to-voice-convertor-v1.netlify.app/
