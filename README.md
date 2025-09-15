@@ -39,6 +39,8 @@ https://text-to-voice-convertor-v1.netlify.app/
 - Click Speak to hear it aloud
 
 - Click Stop to cancel speech
+
+- Select the preferred voice assitent 
 ## 🛠️  Tech Stack
 
 - HTML5 – Structure
