@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bbab19ba-64b7-4561-aba5-7708a0ffcca0" />
+<img width="312" height="300" alt="image" src="https://github.com/user-attachments/assets/bbab19ba-64b7-4561-aba5-7708a0ffcca0" />
 
  # 🗣️ Text to Speech Converter
 
