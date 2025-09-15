@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bbab19ba-64b7-4561-aba5-7708a0ffcca0" />
+
  # 🗣️ Text to Speech Converter
 
 A minimal, responsive Text-to-Speech (TTS) Web App built with HTML, CSS, and JavaScript.
