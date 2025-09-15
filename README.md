@@ -40,7 +40,7 @@ https://text-to-voice-convertor-v1.netlify.app/
 
 - Click Stop to cancel speech
 
-- Select the preferred voice assitent 
+- Select the preferred voice assistant 
 ## 🛠️  Tech Stack
 
 - HTML5 – Structure
