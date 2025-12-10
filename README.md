@@ -2,7 +2,7 @@
 
  # 🗣️ Text to Speech Converter
 
-A minimal, responsive Text-to-Speech (TTS) Web App built with HTML, CSS, and JavaScrip
+A minimal, responsive Text-to-Speech (TTS) Web App built with HTML, CSS, and JavaScript.
 It allows users to input text and convert it into natural-sounding speech using the Web Speech API.
 ## ✨Features
 
