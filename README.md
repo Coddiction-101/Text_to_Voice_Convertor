@@ -19,7 +19,7 @@ It allows users to input text and convert it into natural-sounding speech using 
 - 📜 History of previously spoken texts
 = 🎨 Improved UI with animations
 
-## 🖥️ Demo
+## Demo
 https://text-to-voice-convertor-v1.netlify.app/
 ## Screenshots
 <img width="803" height="660" alt="screenshot" src="https://github.com/user-attachments/assets/5fdea0a1-6bdb-470a-81fe-65bf2d1e9fcd" />
