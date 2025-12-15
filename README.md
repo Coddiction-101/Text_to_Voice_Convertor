@@ -32,7 +32,7 @@ https://text-to-voice-convertor-v1.netlify.app/
 - ├── styles.css       
 - ├── script.js       
 - └──assets/         
-## ⚡ Usage
+##  Usage
 
 - Type or paste text into the input box
 
