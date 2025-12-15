@@ -26,7 +26,7 @@ https://text-to-voice-convertor-v1.netlify.app/
 
  
 
-## 📂 Project Structure
+##  Project Structure
 - text-to-speech/
 - ├── index.html 
 - ├── styles.css       
