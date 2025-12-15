@@ -11,7 +11,7 @@ It allows users to input text and convert it into natural-sounding speech using 
 - ✅ Voice selection from dropdown (choose system-supported voices)
 - ✅ Clean, minimal UI
 
-## 🌟 Future Updates
+## Future Updates
 
 - 🚀 Dark/Light theme support
 - 🎚️ Pitch & speed controls
